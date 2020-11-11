@@ -19,7 +19,7 @@ Information on all Fungal and E.coli strains available in the lab are recorded i
 
 The “Strains_and_Associated_Info” folder also includes additional folders and files:
 
-- **“JA_chimeras_library_yeast_glycerolstock”** – Jamie’s YeastFab database spreadsheet and platemaps of 96-well storage locations together with explanatory “Readme” files as .pdf or .Rmd documents.
+- **“JA_chimeras_library_yeast_glycerolstock”** – Jamie’s YeastFab database spreadsheet and platemaps of 96-well storage locations together with explanatory “Readme” files as .pdf or .Rmd documents. This folder also contains a subfolder entitled 'JA_chimeras_snapgene_vector_maps' which contains the snapgene vector maps and sequencing trace files verifying the assemblies.
 
 - **“S_cerevisiae_gRNA_plasmids”** -  Snapgene files of gRNA/Cas9 plasmids already existing in the lab - these are linked by name to the relevant entry of the plasmid stock in the “Bacteria” page of “ Edward Lab Database”.
 
